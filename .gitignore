@@ -1,9 +1,0 @@
-# Node
-node_modules/
-package-lock.json
-
-# Conf
-config.js
-
-# Macos
-.DS_Store
